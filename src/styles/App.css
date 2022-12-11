@@ -1,0 +1,19 @@
+.tittle-home {
+    text-decoration: none !important;
+}
+.img-character{
+    object-fit: scale-down;
+}
+
+.navbar-toggler{
+    color: hsl(50, 84%, 51%); 
+}
+
+.navbar{
+background-color: black !important;
+
+}
+
+.nav-link{
+   color: hsl(50, 84%, 51%); 
+}
