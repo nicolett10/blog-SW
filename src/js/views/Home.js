@@ -80,7 +80,7 @@ function Home() {
 					</div>
 				</div>
 			</div>
-			{/* <div className="row mb-5 d-flex justify-content-between">
+			<div className="row mb-5 d-flex justify-content-between">
 				<h2 className="tittle-home col-4"><Link style={{textDecoration:"none", color:"hsl(50, 84%, 51%)"}} to="/planets">Planets</Link></h2>
 				<div className="col-md-3 text-white">
 					<input className="input bg-light border-light" type="text" placeholder="Search Planet" value={searchplanet} onChange={searcherplanet} />
@@ -103,7 +103,7 @@ function Home() {
 						}) : (<Spinner />)}
 					</div>
 				</div>
-			</div> */}
+			</div>
 			<div className="row mb-5 d-flex justify-content-between">
 				<h2 className="tittle-home col-4"><Link style={{textDecoration:"none", color:"hsl(50, 84%, 51%)"}} to="/vehicles">Vehicles</Link></h2>
 				<div className="col-md-3 text-white">
